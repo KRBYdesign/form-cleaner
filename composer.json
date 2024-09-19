@@ -1,0 +1,16 @@
+{
+    "name": "kbeasley/form-cleaner",
+    "description": "Watch your profanity...",
+    "autoload": {
+        "psr-4": {
+            "Kbeasley\\FormCleaner\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kyle Beasley",
+            "email": "kyle.beasley17@gmail.com"
+        }
+    ],
+    "require": {}
+}
